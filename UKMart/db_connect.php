@@ -1,9 +1,9 @@
 <?php
  
-$servername = "lrgs.ftsm.ukm.my";
-$username = "a201430";
-$password = "littlegreenbird";
-$dbname = "a201430";
+$servername = "?y";
+$username = "?";
+$password = "?";
+$dbname = "?";
 
 
 try {

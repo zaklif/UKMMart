@@ -1,2 +1,20 @@
-# UKMMart
-A PHP and MySQL-based e-commerce web application featuring user authentication, product management, shopping cart functionality, order processing, and an admin dashboard.
+# UKMart
+
+A web-based e-commerce system developed using PHP and MySQL.
+
+## Features
+
+- User Login
+- Product Management
+- Shopping Cart
+- Search
+- Order Management
+
+## Technologies
+
+- PHP
+- MySQL
+- Bootstrap
+- HTML
+- CSS
+- JavaScript
